@@ -8,7 +8,7 @@ I build backend systems and automation tools that run reliably in production —
 
 ### Work
 
-**Upwork** — Top Rated Plus · 95%+ JSS · 90+ contracts · $20K+ earned  
+**[Upwork](https://www.upwork.com/freelancers/~01c579db9dfb867385)** — Top Rated Plus · 95%+ JSS · 90+ contracts · $20K+ earned  
 **Apify** — 13 public actors · 987 total users · 91% run success rate → [apify.com/scrapemind](https://apify.com/scrapemind)
 
 ---
