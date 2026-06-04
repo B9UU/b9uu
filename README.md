@@ -1,6 +1,6 @@
 # Ibrahim Boussaa — Backend Engineer
 
-**Go · Python · APIs · Web Scraping**
+**Go · Python · TypeScript · APIs · Web Scraping**
 
 I build backend systems and automation tools that run reliably in production — scrapers, REST APIs, data pipelines, and CLI utilities. Based in Morocco, working remotely with clients across the US, UK, Canada, and Australia.
 
@@ -18,6 +18,7 @@ I build backend systems and automation tools that run reliably in production —
 - Reverse-engineer web and mobile APIs (HMAC signatures, GraphQL, anti-bot bypasses) — no Playwright, no headless browsers
 - Build production-grade scrapers in Python (`curl_cffi`, `httpx`, `Pydantic`) with proxy rotation and CAPTCHA solving
 - Write backend services in Go: REST APIs, job scheduling, concurrent data pipelines
+- Build full-stack apps in TypeScript with Next.js, React, and Tailwind (Supabase, Node.js)
 - Deploy and maintain tools on Fly.io and Apify that run daily with minimal intervention
 
 ---
@@ -28,7 +29,7 @@ I build backend systems and automation tools that run reliably in production —
 |---|---|---|
 | [Realtor.ca Scraper](https://apify.com/scrapemind) | Python · Apify | 50+ active users. Reverse-engineered internal API, proxy rotation, daily scheduling |
 | [Real Estate Monitor API](https://github.com/B9UU/realtyV2) | Go · PostgreSQL · Fly.io | Aggregates listings from multiple sources, REST API layer, daily sync |
-| [Zumper Scraper](https://github.com/B9UU/Zumper.com-scraper) | Python | API wrapper for Zumper rental listings |
+| [goqueue](https://github.com/B9UU/goqueue) | Go · PostgreSQL · Prometheus | Persistent job queue — priority scheduling, backoff retries, dead-letter queue, crash-safe polling, Prometheus metrics |
 | [mydiet — TUI Nutrition Tracker](https://github.com/B9UU/mydiet) | Go · SQLite · Bubble Tea | CLI app for daily macro tracking, offline-first, keyboard-driven |
 
 ---
@@ -36,9 +37,10 @@ I build backend systems and automation tools that run reliably in production —
 ### Stack
 
 ```
-Languages   Go  Python  Bash  SQL
+Languages   Go  Python  TypeScript  JavaScript  Bash  SQL
 Scraping    curl_cffi  httpx  Pydantic  proxy rotation  2Captcha
 Backend     REST APIs  PostgreSQL  SQLite  concurrency  job scheduling
+Frontend    Next.js  React  Tailwind  Node.js  Supabase
 Infra       Docker  Fly.io  Apify  GitHub Actions  Linux
 Editor      Neovim
 ```
